@@ -1,5 +1,5 @@
 {
-    "name": "jackmartin/laravel-yandex-geocode",
+    "name": "pendalf/laravel-yandex-geocode",
     "description": "Simply service laravel Yandex Geocoding",
     "keywords": [
         "laravel",
@@ -15,11 +15,11 @@
     "type": "library",
     "authors": [
         {
-            "name": "Evgen Kytonin",
-            "email": "killfess@gmail.com"
+            "name": "Pendalf",
+            "email": "akma_2003@mail.ru"
         }
     ],
-    "homepage": "https://github.com/martinjack/laravel-yandex-geocoding",
+    "homepage": "https://github.com/pendalf/laravel-yandex-geocoding",
     "require": {
         "php": ">=7.0.0"
     },

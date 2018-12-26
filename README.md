@@ -8,7 +8,7 @@ Simply package laravel Yandex.Geocoding
 Run composer require command.
 
 ```sh
-composer require jackmartin/laravel-yandex-geocode
+composer require pendalf/laravel-yandex-geocode
 ```
 
 ### Laravel Setting
